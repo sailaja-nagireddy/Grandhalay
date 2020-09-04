@@ -1,0 +1,889 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2301,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "65iEDwAAQBAJ",
+      "etag": "VUaWsp7+uq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/65iEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Artificial Intelligence",
+        "subtitle": "A Guide for Thinking Humans",
+        "authors": [
+          "Melanie Mitchell"
+        ],
+        "publisher": "Farrar, Straus and Giroux",
+        "publishedDate": "2019-10-15",
+        "description": "Melanie Mitchell separates science fact from science fiction in this sweeping examination of the current state of AI and how it is remaking our world No recent scientific enterprise has proved as alluring, terrifying, and filled with extravagant promise and frustrating setbacks as artificial intelligence. The award-winning author Melanie Mitchell, a leading computer scientist, now reveals AI’s turbulent history and the recent spate of apparent successes, grand hopes, and emerging fears surrounding it. In Artificial Intelligence, Mitchell turns to the most urgent questions concerning AI today: How intelligent—really—are the best AI programs? How do they work? What can they actually do, and when do they fail? How humanlike do we expect them to become, and how soon do we need to worry about them surpassing us? Along the way, she introduces the dominant models of modern AI and machine learning, describing cutting-edge AI programs, their human inventors, and the historical lines of thought underpinning recent achievements. She meets with fellow experts such as Douglas Hofstadter, the cognitive scientist and Pulitzer Prize–winning author of the modern classic Gödel, Escher, Bach, who explains why he is “terrified” about the future of AI. She explores the profound disconnect between the hype and the actual achievements in AI, providing a clear sense of what the field has accomplished and how much further it has to go. Interweaving stories about the science of AI and the people behind it, Artificial Intelligence brims with clear-sighted, captivating, and accessible accounts of the most interesting and provocative modern work in the field, flavored with Mitchell’s humor and personal observations. This frank, lively book is an indispensable guide to understanding today’s AI, its quest for “human-level” intelligence, and its impact on the future for us all.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374715236"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0374715238"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=65iEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=65iEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=65iEDwAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=65iEDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=65iEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1233.07,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 616.54,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=65iEDwAAQBAJ&rdid=book-65iEDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1233070000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 616540000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Artificial_Intelligence-sample-epub.acsm?id=65iEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=65iEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This frank, lively book is an indispensable guide to understanding today’s AI, its quest for “human-level” intelligence, and its impact on the future for us all."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v6OTDwAAQBAJ",
+      "etag": "hWQAXkkeTQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v6OTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Artificial Intelligence",
+        "subtitle": "How Advance Machine Learning Will Shape The Future Of Our World",
+        "authors": [
+          "Christina Ahmet"
+        ],
+        "publisher": "Shockwave Publishing via PublishDrive",
+        "publishedDate": "2018-11-20",
+        "description": "Currently, Artificial Intelligence (AI) lives amongst the human population. They reside in smartphones. They help people find content on the internet. They learn the behavior of their owners and put out relevant, interesting content to enhance their owner's experience while they are browsing on the internet. In this book you will learn all about Artificial Intelligence and how it will affect your life in the near future. Learn exactly what Artificial Intelligence is Machine Learning AI and The Internet Of Things Opportunities for Artificial Intelligence Intelligent IoT and much much more!",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:6610000130450"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v6OTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v6OTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=v6OTDwAAQBAJ&pg=PP1&dq=artificial+intelligence&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=v6OTDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=v6OTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 303,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 212.1,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=v6OTDwAAQBAJ&rdid=book-v6OTDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 303000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 212100000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Artificial_Intelligence-sample-epub.acsm?id=v6OTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Artificial_Intelligence-sample-pdf.acsm?id=v6OTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v6OTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book you will learn all about Artificial Intelligence and how it will affect your life in the near future."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J-_QDwAAQBAJ",
+      "etag": "jkr4G1bJtQw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J-_QDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Artificial Intelligence for All",
+        "subtitle": "Transforming Every Aspect of Our Life",
+        "authors": [
+          "Utpal Chakraborty"
+        ],
+        "publisher": "BPB Publications",
+        "publishedDate": "2020-02-18",
+        "description": "Artificial Intelligence, the Revolutionary Transformation that no one can escape DESCRIPTION The book ‘Artificial Intelligence for All’ is a snapshot of AI applications in different industries, society, and everyday life. The book is written considering possibilities AI can bring in the Indian context and considering Indian industries and economy at the center stage. The book starts with describing the race for the supremacy of different countries in the field of Artificial Intelligence that has already taken a great momentum and how AI has managed to influence even mainstream politics and the world leaders. In the subsequent chapters, the book brings in AI applications primarily in the Banking and Finance sectors like Financial Crime detection using AI, Credit Risk Assessment, AI-powered conversational banking, Predictive Analytics, and recommendations in Banking and Finance. In few of the chapters, it goes deep into Machine Learning, Deep Learning, Neural Network and analogy with the human brain for readers who wants to go deeper into the subject, at the same time the content and explanations remain very simple for non-technical readers. How AI is powering the self-driving autonomous vehicles and its implication in the society, job, and the world economy, and it’s transforming the world of home automation, will be another area of interest in the book. A full chapter is dedicated for CIOs and CTOs to consider AI top in their priority list. Applications of AI in Sports are going to be interesting for sports lovers as well as professionals working in the Sports and Computer Games domain. The book also gives special emphasis on Conversational AI like Virtual Assistances and ChatBots and their utility in different sectors. A chapter dedicated for healthcare and medicine provides a complete overview of AI applications in the field and how it’s transforming clinical imaging, personalized medicines, drug discovery, and predictions and forecasting health-related events and many more. Cognitive Cyber Security using AI and Machine Learning would be an area of interest for the readers in the field of Cyber Security. The chapter talks about various modern cognitive cybersecurity tools and techniques to fight with the ever-evolving cybercrime space. ‘Journey of a Digital Traveler’ describes how AI is transforming the travel and tourism industry. The book also includes top 100 business use cases which illustrate possible applications in various fields. KEY FEATURES Provides perfect ‘playground’ for enterprises and institutions globally to develop Artificial Intelligence solutions The world has achieved an enormous amount of technological advancement and skyrocketing progress in mass Digitization, Data Science, and FinTech The gist of the golden era of AI and FinTech AI-powered autonomous vehicles are undoubtedly the future. Autonomous vehicles are the dawn of a whole new lifestyle Using Artificial Intelligence to redefine their products, processes and strategies Providing banking and financial services to the customers through a variety of digital channels A preliminary guide for enterprises and businesses to revisit their AI strategy WHAT WILL YOU LEARN This book is for both technical and non-technical readers, a cutting edge technology like Artificial Intelligence is simplified for all and a genuine effort has been made to democratize it as much as possible. The book will provide insights into the real applications of AI in different industries like health care and medicine, banking and finance, manufacturing, retail, sports, and many more, including how it’s transforming our life which probably many of us are not even aware of. And most importantly how a country like India can be benefited by embracing this groundbreaking technology and the huge opportunities and economic impact that AI can bring. Also, you will get to know how different countries like USA, CHINA, UK, EUROPE, RUSSIA, including INDIA is already in the race of being AI Superpower; because AI is the future and whoever becomes the leader in AI will become the ruler of the world. WHO THIS BOOK IS FOR This book is useful for AI Professionals, Data Scientists...... The content of the book is for both Technical and Non Technical readers who wants to know the applications of AI in different industries. No prior technical or programming experience is required to understand this book. This book can be used as a hand book for Data Scientist and Business SMEs who are in the process of identifying different use cases of Artificial Intelligence in their respective domains. TABLE OF CONTENTS 1. Super Powers of AI – The Leaders and the Contenders 2. AI – The Core Fabric for NextGen Banking 3. How an AI Framework can be a Game-Changer in Your AI Journey 4. Artificial Neural Networks 5. The Next Wave of Automation will Transform our Living Experience 6. Self-Driving Cars – Socio Economic Impact of Autonomous Vehicles 7. How Artificial Intelligence is Transforming the BFSI Sector 43 8. AI Now is a Race Among Startups and Tech Giants 9. AI in the top of priorities for CIOs and CTOs 10. AI in Sports 11. How a Country can be Transformed Using Artificial Intelligence 12. Don’t Underestimate the Power of an AI Chatbot 13. Industry Adoption of Cognitive and Artificial Intelligence 14. Artificial Intelligence – The Biggest Disruptor in the BFSI Industry 15. AI in Healthcare 16. AI in Cyber Security – Cognitive Cyber Defense 17. Be Aware of Cyber Threat 18. AI Revolution in India – National Strategy for AI 19. AI in Tour and Travels – Journey of a Digital Traveler 20. Top 100 Business Use Cases of Artificial Intelligence 21. T Impact of Modern Automation on Employment",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789389328509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9389328500"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J-_QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J-_QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=J-_QDwAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J-_QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J-_QDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 879.74,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 439.87,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=J-_QDwAAQBAJ&rdid=book-J-_QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 879740000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 439870000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Artificial_Intelligence_for_All-sample-epub.acsm?id=J-_QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Artificial_Intelligence_for_All-sample-pdf.acsm?id=J-_QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J-_QDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "WHO THIS BOOK IS FOR This book is useful for AI Professionals, Data Scientists...... The content of the book is for both Technical and Non Technical readers who wants to know the applications of AI in different industries."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EEO8DwAAQBAJ",
+      "etag": "lBjhWq7+k3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EEO8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Responsible Artificial Intelligence",
+        "subtitle": "How to Develop and Use AI in a Responsible Way",
+        "authors": [
+          "Virginia Dignum"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2019-11-04",
+        "description": "In this book, the author examines the ethical implications of Artificial Intelligence systems as they integrate and replace traditional social structures in new sociocognitive-technological environments. She discusses issues related to the integrity of researchers, technologists, and manufacturers as they design, construct, use, and manage artificially intelligent systems; formalisms for reasoning about moral decisions as part of the behavior of artificial autonomous systems such as agents and robots; and design methodologies for social agents based on societal, moral, and legal values. Throughout the book the author discusses related work, conscious of both classical, philosophical treatments of ethical issues and the implications in modern, algorithmic systems, and she combines regular references and footnotes with suggestions for further reading. This short overview is suitable for undergraduate students, in both technical and non-technical courses, and for interested and concerned researchers, practitioners, and citizens.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030303716"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3030303713"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EEO8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EEO8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=EEO8DwAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EEO8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EEO8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3363,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 3363,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EEO8DwAAQBAJ&rdid=book-EEO8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3363000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3363000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Responsible_Artificial_Intelligence-sample-pdf.acsm?id=EEO8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EEO8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, the author examines the ethical implications of Artificial Intelligence systems as they integrate and replace traditional social structures in new sociocognitive-technological environments."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zLFSPdIuqKsC",
+      "etag": "4AWKAMTyNUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zLFSPdIuqKsC",
+      "volumeInfo": {
+        "title": "Artificial Intelligence",
+        "subtitle": "The Very Idea",
+        "authors": [
+          "John Haugeland"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "1989",
+        "description": "Presented in non-technical terms, this book explores the relationship between human thinking and machine computing",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0262580950"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262580953"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zLFSPdIuqKsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zLFSPdIuqKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=zLFSPdIuqKsC&printsec=frontcover&dq=artificial+intelligence&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=zLFSPdIuqKsC&dq=artificial+intelligence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Artificial_Intelligence.html?hl=&id=zLFSPdIuqKsC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zLFSPdIuqKsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presented in non-technical terms, this book explores the relationship between human thinking and machine computing"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iI9eBAAAQBAJ",
+      "etag": "gCt29C4rwcI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iI9eBAAAQBAJ",
+      "volumeInfo": {
+        "title": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+        "authors": [
+          "VINOD CHANDRA S.S.",
+          "ANAND HAREENDRAN S."
+        ],
+        "publisher": "PHI Learning Pvt. Ltd.",
+        "publishedDate": "2014-03-06",
+        "description": "Primarily intended for the undergraduate and postgraduate students of computer science and engineering, this text bridges the gaps in knowledge of the seemingly difficult areas of artificial intelligence and machine learning. This book promises to provide the most number of case studies and worked out examples than any other of its genre. The text is written in a highly interactive manner which makes for an avid reading. More into the text, the contents are well placed that it takes off from the introduction to AI, which is followed by heuristics searching and game playing. The machine learning section begins with the basis of learning, and the various association rule learning algorithms. Various types of learning like, reinforced, supervised, unsupervised and statistical are also included with numerous case studies and application exercises. The well explained algorithms and pseudo codes for each topic make this book useful for students. KEY FEATURES • Includes Case studies for each machine learning algorithm • Incorporates day to day examples and pictorial representations for a deeper understanding of the subject • Helps students to create programs easily",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120349346"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8120349342"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iI9eBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iI9eBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=iI9eBAAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iI9eBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iI9eBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 531,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 265.5,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iI9eBAAAQBAJ&rdid=book-iI9eBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 531000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 265500000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/ARTIFICIAL_INTELLIGENCE_AND_MACHINE_LEAR-sample-epub.acsm?id=iI9eBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/ARTIFICIAL_INTELLIGENCE_AND_MACHINE_LEAR-sample-pdf.acsm?id=iI9eBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iI9eBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book promises to provide the most number of case studies and worked out examples than any other of its genre. The text is written in a highly interactive manner which makes for an avid reading."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h7VIDwAAQBAJ",
+      "etag": "iv7L99WYinM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h7VIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ARTIFICIAL INTELLIGENCE(WAY TO FUTURE)",
+        "subtitle": "",
+        "authors": [
+          "G.S.SRIDHAR"
+        ],
+        "publisher": "G.S.SRIDHAR",
+        "description": "THIS BOOK GIVES DETAILED KNOWLEDGE ABOUT ARTIFICIAL INTELLIGENCE AND ITS FUNCTIONS.AI IS DEVELOPING RAPIDLY IN COMPUTER FIELD WHICH IS POPULAR AROUND THE WORLD.THIS BOOK CONTAINS MANY USEFUL ASPECTS ABOUT ARTIFICIAL INTELLIGENCE.SO KINDLY READ THIS BOOK AND GET THE MOST OUT OF IT.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h7VIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h7VIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=h7VIDwAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=h7VIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h7VIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 100.1,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 100.1,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=h7VIDwAAQBAJ&rdid=book-h7VIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 100100000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 100100000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/ARTIFICIAL_INTELLIGENCE_WAY_TO_FUTURE-sample-pdf.acsm?id=h7VIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h7VIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THIS BOOK GIVES DETAILED KNOWLEDGE ABOUT ARTIFICIAL INTELLIGENCE AND ITS FUNCTIONS.AI IS DEVELOPING RAPIDLY IN COMPUTER FIELD WHICH IS POPULAR AROUND THE WORLD.THIS BOOK CONTAINS MANY USEFUL ASPECTS ABOUT ARTIFICIAL INTELLIGENCE.SO KINDLY ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UbaIDwAAQBAJ",
+      "etag": "C/nmnrAvoSE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UbaIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Artificial Intelligence in Practice",
+        "subtitle": "How 50 Successful Companies Used AI and Machine Learning to Solve Problems",
+        "authors": [
+          "Bernard Marr"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2019-06-05",
+        "description": "Cyber-solutions to real-world business problems Artificial Intelligence in Practice is a fascinating look into how companies use AI and machine learning to solve problems. Presenting 50 case studies of actual situations, this book demonstrates practical applications to issues faced by businesses around the globe. The rapidly evolving field of artificial intelligence has expanded beyond research labs and computer science departments and made its way into the mainstream business environment. Artificial intelligence and machine learning are cited as the most important modern business trends to drive success. It is used in areas ranging from banking and finance to social media and marketing. This technology continues to provide innovative solutions to businesses of all sizes, sectors and industries. This engaging and topical book explores a wide range of cases illustrating how businesses use AI to boost performance, drive efficiency, analyse market preferences and many others. Best-selling author and renowned AI expert Bernard Marr reveals how machine learning technology is transforming the way companies conduct business. This detailed examination provides an overview of each company, describes the specific problem and explains how AI facilitates resolution. Each case study provides a comprehensive overview, including some technical details as well as key learning summaries: Understand how specific business problems are addressed by innovative machine learning methods Explore how current artificial intelligence applications improve performance and increase efficiency in various situations Expand your knowledge of recent AI advancements in technology Gain insight on the future of AI and its increasing role in business and industry Artificial Intelligence in Practice: How 50 Successful Companies Used Artificial Intelligence to Solve Problems is an insightful and informative exploration of the transformative power of technology in 21st century commerce.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119548218"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1119548217"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UbaIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UbaIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=UbaIDwAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=UbaIDwAAQBAJ&dq=artificial+intelligence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Artificial_Intelligence_in_Practice.html?hl=&id=UbaIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UbaIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presenting 50 case studies of actual situations, this book demonstrates practical applications to issues faced by businesses around the globe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QSybDwAAQBAJ",
+      "etag": "GLvo+EqD2Qs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QSybDwAAQBAJ",
+      "volumeInfo": {
+        "title": "BASICS OF ARTIFICIAL INTELLIGENCE & MACHINE LEARNING",
+        "authors": [
+          "Dr Dheeraj Mehrotra"
+        ],
+        "publisher": "Notion Press",
+        "publishedDate": "2019-06-03",
+        "description": "The concept of Artificial Intelligence (AI) & Machine Learning (ML) has been in practice for over years with the advent of technological progress. Over time, it has blended our lives through nearly every narration of learning, teaching, enjoyment, normal routine operations and what not. The aspect delivers a common understanding of the topics with reference to it making an impact on our lives, with a better framework of technology affecting our lives in particular. Let us look up to science for a change to be brought about in us. Let us create awareness of making technology available to people, in a broader sense. As that happens, people who are responsible need to be told about the use and misuse of the same. As we lead our lives, we come across the fact that AI, Robotics and Learning Machines seem to be the household topic of discussion. Earlier, AI was perceived to be reserved for only ‘Geniuses’ or ‘Researchers’ or the ‘computer’ community, but it very aptly integrates and impacts each and every aspect of our lives. Knowingly or unknowingly, it has become intellectually influential in shaping our thoughts, actions and the day-to-day chores.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781645872832"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1645872831"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QSybDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QSybDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=QSybDwAAQBAJ&printsec=frontcover&dq=artificial+intelligence&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QSybDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QSybDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 116.82,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 116.82,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QSybDwAAQBAJ&rdid=book-QSybDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 116820000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 116820000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QSybDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The concept of Artificial Intelligence (AI) &amp; Machine Learning (ML) has been in practice for over years with the advent of technological progress."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vLiTXDHr_sYC",
+      "etag": "KJqrflg7cPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vLiTXDHr_sYC",
+      "volumeInfo": {
+        "title": "Emerging Artificial Intelligence Applications in Computer Engineering",
+        "subtitle": "Real Word AI Systems with Applications in EHealth, HCI, Information Retrieval and Pervasive Technologies",
+        "authors": [
+          "Ilias G. Maglogiannis"
+        ],
+        "publisher": "IOS Press",
+        "publishedDate": "2007-01-01",
+        "description": "\"The ever expanding abundance of information and computing power enables researchers and users to tackle highly interesting issues for the first time, such as applications providing personalized access and interactivity to multimodal information based on user preferences and semantic concepts or human-machine interface systems utilizing information on the affective state of the user. The purpose of this book is to provide insights on how todays computer engineers can implement AI in real world applications. Overall, the field of artificial intelligence is extremely broad. In essence, AI has found applications, in one way or another, in every aspect of computing and in most aspects of modern life. Consequently, it is not possible to provide a complete review of the field in the framework of a single book, unless if the review is broad rather than deep. In this book we have chosen to present selected current and emerging practical applications of AI, thus allowing for a more detailed presentation of topics. The book is organized in four parts; General Purpose Applications of AI; Intelligent Human-Computer Interaction; Intelligent Applications in Signal Processing and eHealth; and Real world AI applications in Computer Engineering.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781586037802"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1586037803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 407,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vLiTXDHr_sYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vLiTXDHr_sYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=vLiTXDHr_sYC&printsec=frontcover&dq=artificial+intelligence&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=vLiTXDHr_sYC&dq=artificial+intelligence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Emerging_Artificial_Intelligence_Applica.html?hl=&id=vLiTXDHr_sYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vLiTXDHr_sYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The purpose of this book is to provide insights on how todays computer engineers can implement AI in real world applications. Overall, the field of artificial intelligence is extremely broad."
+      }
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2015,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "E0yH0NdySrQC",
+      "etag": "4uOeBaVRpDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E0yH0NdySrQC",
+      "volumeInfo": {
+        "title": "Language Testing in Practice",
+        "subtitle": "Designing and Developing Useful Language Tests",
+        "authors": [
+          "Lyle F. Bachman",
+          "Professor of Applied Linguistics Lyle F Bachman",
+          "Adrian S. Palmer"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "1996-09-19",
+        "description": "This book relates language testing practice to current views of communicative language teaching and testing. It builds on the theoretical background expounded in Bachman's Fundamental Considerations in Language Testing and examines the design, planning, and organization of tests. The book is divided into three sections which discuss 1) objectives and expectations, the context of language testing, and the abilities to be tested; 2) the process of test development, including blueprints, resources, operationalization, and scoring methods; and 3) ten examples which illustrate the principles discussed in Parts One and Two.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0194371484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780194371483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 377,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E0yH0NdySrQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E0yH0NdySrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=E0yH0NdySrQC&pg=PA17&dq=test&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=E0yH0NdySrQC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Language_Testing_in_Practice.html?hl=&id=E0yH0NdySrQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E0yH0NdySrQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "2 \u003cb\u003eTest\u003c/b\u003e usefulness: Qualities of language \u003cb\u003etests\u003c/b\u003e Introduction The most important \u003cbr\u003e\nconsideration in designing and developing a language \u003cb\u003etest\u003c/b\u003e is the use for which it \u003cbr\u003e\nis intended, so that the most important quality of a \u003cb\u003etest\u003c/b\u003e is its usefulness. This may\u003cbr\u003e\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lMTIIQb-MO8C",
+      "etag": "t8RM7qlNFNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lMTIIQb-MO8C",
+      "volumeInfo": {
+        "title": "PRO 31: International RILEM Workshop on Test and Design Methods for Steel Fibre Reinforced Concrete - Background and Experiences",
+        "authors": [
+          "Bernd Schnütgen",
+          "Lucie Vandewalle"
+        ],
+        "publisher": "RILEM Publications",
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2912143381"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782912143389"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+          "Cement composites"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lMTIIQb-MO8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lMTIIQb-MO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=lMTIIQb-MO8C&pg=PA1&dq=test&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=lMTIIQb-MO8C&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/PRO_31_International_RILEM_Workshop_on_T.html?hl=&id=lMTIIQb-MO8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lMTIIQb-MO8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "BENDING \u003cb\u003eTEST\u003c/b\u003e AND INTERPRETATION Lucie Vandewalle and David Dupont \u003cbr\u003e\nKatholieke Universiteit Leuven , Belgium . Abstract The “ draft recommendation &quot; \u003cbr\u003e\nof the bending \u003cb\u003etest\u003c/b\u003e has been published in 2000 [ 1 ] . In the Brite Euram project&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pqcesk8iZzMC",
+      "etag": "qqZPdztfBHs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pqcesk8iZzMC",
+      "volumeInfo": {
+        "title": "Charpy Impact Test",
+        "subtitle": "Factors and Variables",
+        "authors": [
+          "John M. Holt"
+        ],
+        "publisher": "ASTM International",
+        "publishedDate": "1990-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0803112955"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780803112957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Compliance"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Pqcesk8iZzMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Pqcesk8iZzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Pqcesk8iZzMC&pg=PA35&dq=test&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Pqcesk8iZzMC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charpy_Impact_Test.html?hl=&id=Pqcesk8iZzMC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pqcesk8iZzMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "G. Revise INFLUENCE OF DIMENSIONAL PARAMETER OF AN IMPACT \u003cb\u003eTEST\u003c/b\u003e \u003cbr\u003e\nMACHINE ON THE RESULTS OF A \u003cb\u003eTEST\u003c/b\u003e REFERENCE: Revise, G., &quot;Influence of \u003cbr\u003e\nDimensional Parameter of an Impact \u003cb\u003eTest\u003c/b\u003e Machine on the Results of a \u003cb\u003eTest\u003c/b\u003e,&quot;&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CQuBkXDspBkC",
+      "etag": "xAJ0dJtMEQ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CQuBkXDspBkC",
+      "volumeInfo": {
+        "title": "A Manual of Laboratory and Diagnostic Tests",
+        "authors": [
+          "Frances Talaska Fischbach",
+          "Marshall Barnett Dunning"
+        ],
+        "publisher": "Lippincott Williams & Wilkins",
+        "publishedDate": "2009",
+        "description": "Now in its Eighth Edition, this leading comprehensive manual helps nurses deliver safe, effective, and informed care for patients undergoing diagnostic tests and procedures. The book covers a broad range of laboratory and diagnostic tests and studies that are delivered to varied patient populations in varied settings. Tests are grouped according to specimen and function/test type (e.g. blood, urine, stool, cerebrospinal fluid, etc.). Each test is described in detail, with step-by-step guidance on correct procedure, tips for accurate interpretation, and instructions for patient preparation and aftercare. Clinical Alerts highlight critical safety information.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0781771943"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780781771948"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1317,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CQuBkXDspBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CQuBkXDspBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=CQuBkXDspBkC&pg=PA138&dq=test&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=CQuBkXDspBkC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Manual_of_Laboratory_and_Diagnostic_Te.html?hl=&id=CQuBkXDspBkC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CQuBkXDspBkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Explain \u003cb\u003etest\u003c/b\u003e purpose and procedure to parents. 2. Obstetric complications may \u003cbr\u003e\nlead to significant morbidity and mortality for the mothers of these infants. 3. \u003cbr\u003e\nProvide genetic counseling in a Sensitive manner. 4. See Chapter 1 guidelines \u003cbr\u003e\nfor safe,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qAY4jgEACAAJ",
+      "etag": "oCT/avLehGQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qAY4jgEACAAJ",
+      "volumeInfo": {
+        "title": "The Official DVSA Theory Test for Car Drivers",
+        "authors": [
+          "Driver And Vehicle Standards Agency (Dvsa)"
+        ],
+        "publishedDate": "2015-10-26",
+        "description": "This publication is the official theory test book for car drivers, compiled by the Driver and Vehicle Standards Agency. It contains multiple choice questions from the whole theory test question bank, with answers and explanations, dealing with topics such as: alertness and attitude, vehicle safety and handling, safety margins, hazard awareness, vulnerable road users, motorway rules and rules of the road, road and traffic signs, documents, accidents, and vehicle loading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0115534199"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780115534195"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qAY4jgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qAY4jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qAY4jgEACAAJ&dq=test&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=qAY4jgEACAAJ&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Official_DVSA_Theory_Test_for_Car_Dr.html?hl=&id=qAY4jgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qAY4jgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This publication is the official theory test book for car drivers, compiled by the Driver and Vehicle Standards Agency."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dB0fw5lf0GQC",
+      "etag": "9FCmjBmxdOE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dB0fw5lf0GQC",
+      "volumeInfo": {
+        "title": "Foundations of Psychological Testing",
+        "subtitle": "A Practical Approach",
+        "authors": [
+          "Sandra A. McIntire",
+          "Leslie A. Miller"
+        ],
+        "publisher": "SAGE",
+        "publishedDate": "2007",
+        "description": "The Second Edition of Foundations of Psychological Testing: A Practical Approach is a scholarly, yet pragmatic and easy to understand text for undergraduate students new to the field of psychological testing. Using an engaging, conversational format, authors Sandra A. McIntire and Leslie A. Miller aim to prepare students to be informed consumers—as test users or test takers—not to teach students to administer or interpret individual psychological tests.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781412924849"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1412924847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dB0fw5lf0GQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dB0fw5lf0GQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=dB0fw5lf0GQC&pg=PA182&dq=test&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=dB0fw5lf0GQC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Foundations_of_Psychological_Testing.html?hl=&id=dB0fw5lf0GQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dB0fw5lf0GQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "does, and therefore a psychological \u003cb\u003etest\u003c/b\u003e cannot be expected to be as reliable as \u003cbr\u003e\na yardstick in making a measurement. Keep in mind that just because a \u003cb\u003etest\u003c/b\u003e has \u003cbr\u003e\nbeen shown to produce reliable scores, that does not mean the \u003cb\u003etest\u003c/b\u003e is also valid."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G5ZZuwpJdLEC",
+      "etag": "fsbIzpfSKlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G5ZZuwpJdLEC",
+      "volumeInfo": {
+        "title": "Vane Shear Strength Testing in Soils",
+        "subtitle": "Field and Laboratory Studies",
+        "authors": [
+          "Adrian F. Richards"
+        ],
+        "publisher": "ASTM International",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0803111886"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780803111882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 378,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic book"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G5ZZuwpJdLEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G5ZZuwpJdLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=G5ZZuwpJdLEC&pg=PA247&dq=test&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=G5ZZuwpJdLEC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vane_Shear_Strength_Testing_in_Soils.html?hl=&id=G5ZZuwpJdLEC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G5ZZuwpJdLEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eTest\u003c/b\u003e. Results. REFERENCE: Greig, J. W., Campanella, R. G., and Robertson, \u003cbr\u003e\nP. K., &quot;Comparison of Field Vane Results with Other In-Situ \u003cb\u003eTest\u003c/b\u003e Results,&quot; Vane \u003cbr\u003e\nShear Strength \u003cb\u003eTesting\u003c/b\u003e in Soils: Field and Laboratory Studies, ASTM STP 1014, \u003cbr\u003e\nA. F.&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a0NyZJKgqyIC",
+      "etag": "tOB3U8sOsCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a0NyZJKgqyIC",
+      "volumeInfo": {
+        "title": "Sensory Testing Methods",
+        "subtitle": "A Manual",
+        "authors": [
+          "Francis J. Pilgrim",
+          "David R. Peryam"
+        ],
+        "publisher": "ASTM International",
+        "publishedDate": "1958",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Food"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a0NyZJKgqyIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a0NyZJKgqyIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=a0NyZJKgqyIC&pg=PA25&dq=test&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=a0NyZJKgqyIC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sensory_Testing_Methods.html?hl=&id=a0NyZJKgqyIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Sensory_Testing_Methods-sample-epub.acsm?id=a0NyZJKgqyIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a0NyZJKgqyIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The forced choice discrimination \u003cb\u003etests\u003c/b\u003e are used to confirm suspected small \u003cbr\u003e\ndifferences in product characteristics or product quality and to select respondents \u003cbr\u003e\nfor discrimination \u003cb\u003etests\u003c/b\u003e. Sometimes discrimination is desirable, such as, with a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cR5pNv76HMgC",
+      "etag": "JfqR9bvaqxw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cR5pNv76HMgC",
+      "volumeInfo": {
+        "title": "Compression Testing of Homogeneous Materials and Composites",
+        "subtitle": "A Symposium",
+        "authors": [
+          "Richard Chait"
+        ],
+        "publisher": "ASTM International",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0803102488"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780803102484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Composite materials"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cR5pNv76HMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cR5pNv76HMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=cR5pNv76HMgC&pg=PA78&dq=test&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=cR5pNv76HMgC&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compression_Testing_of_Homogeneous_Mater.html?hl=&id=cR5pNv76HMgC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cR5pNv76HMgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ivan A. Martorell&#39; On the Ring Compression \u003cb\u003eTest\u003c/b\u003e REFERENCE: Martorell, I.A., “\u003cbr\u003e\nOn the Ring Compression \u003cb\u003eTest\u003c/b\u003e,” Compression \u003cb\u003eTesting\u003c/b\u003e of Homogeneous \u003cbr\u003e\nMaterials and Composites, ASTM STP808, Richard Chait and Ralph Papirno, \u003cbr\u003e\nEds.,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GLTzJ7SbhU4C",
+      "etag": "NtcEQyaWe+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GLTzJ7SbhU4C",
+      "volumeInfo": {
+        "title": "Symposium on Shear and Torsion Testing",
+        "publisher": "ASTM International",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GLTzJ7SbhU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GLTzJ7SbhU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=GLTzJ7SbhU4C&pg=PA1&dq=test&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=GLTzJ7SbhU4C&dq=test&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Symposium_on_Shear_and_Torsion_Testing.html?hl=&id=GLTzJ7SbhU4C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GLTzJ7SbhU4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Subcommittee 25 on Shear and Torsion \u003cb\u003eTests\u003c/b\u003e of ASTM Committee E-l on \u003cbr\u003e\nMethods of \u003cb\u003eTesting\u003c/b\u003e sponsored this symposium with the intention of providing a \u003cbr\u003e\ncomprehensive review of shear and torsion \u003cb\u003etest\u003c/b\u003e methods and developing \u003cbr\u003e\ninformation&nbsp;..."
+      }
+    }
+  ]
+}
+
